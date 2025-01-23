@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>class no 3</title>
+</head>
+<body>
+    <table border="1">
+        <thead>
+            <tr>
+                <th bgcolor="cgreencolour">Device</th>
+                <th bgcolor="cgreencolour">Brand</th>
+                <th bgcolor="cgreencolour">Specification</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Smart phone</td>
+                <td>Apple</td>
+                <td>
+                    <table border="1">
+            <tr>
+                <th bgcolor="yellow">Model</th>
+                <th bgcolor="yellow">Storage</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>IPhone 12 pro</td>
+                <td>256GB</td>
+            </tr>
+            <tr>
+                <td>iPhone SE</td>
+                <td>128GB</td>
+            </tr>
+    </tbody>
+</table>
+    <tr>
+        <td>Laptop</td>
+        <td>HP</td>
+        <td>15.6" Display</td>
+    </tr>
+<tr>
+    <td>Table</td>
+     <td>Samsung</td>
+    <td>10.5" Display</td>
+</tr>
+        </tbody>
+    </table>
+</body>
+</html>
